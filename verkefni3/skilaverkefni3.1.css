@@ -1,0 +1,43 @@
+body{
+	width: auto;
+	margin: 0 auto;
+}
+
+.times{
+	font-family: "times new roman", Times, serif;
+	border:1px solid black;
+	margin-left:100px;
+	padding: 20px;
+	font-size: 1em;
+
+}
+
+.arial{
+	font-family: "Arial", Helvetica, sans-serif; 
+	border:1px solid black;
+	padding: 20px;
+	padding-bottom: 60px;
+	font-size: 1em;
+}
+
+.courier{
+	font-family: "monotype", monotipe, serif;
+	border:1px solid black;
+	margin-right:100px;
+	padding: 20px;
+	font-size: 1em;
+}
+
+h2{
+	font-family: sans-serif;
+}
+
+p{
+	font-family: serif;
+}
+
+.grid{
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	grid-template-rows: 
+}
