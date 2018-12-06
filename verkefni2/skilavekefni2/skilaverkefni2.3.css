@@ -1,0 +1,21 @@
+body{
+	width: 870px;
+	margin:0 auto;
+}
+.bigbox{
+	border:1px solid red;
+	padding-bottom: 750px;
+	padding-left: 25px;
+}
+.box1{
+	float :left;
+	width: 250px;
+	padding:10px;
+	border:1px solid black;
+}
+.box2{
+	float :left;
+	width: 386px;
+	padding:10px;
+	border:1px solid black;
+}

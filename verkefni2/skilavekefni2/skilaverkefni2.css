@@ -1,0 +1,27 @@
+h1
+{
+	border: 2px solid green;
+}
+.redbox{
+	margin: 0px;
+	padding:10px;
+	border: 3px solid red;
+	margin-top: 25px;
+	color:red;
+
+
+
+
+
+}
+
+.bluebox{
+	border: 3px dashed blue;
+	color:blue;
+
+
+
+
+}
+
+
