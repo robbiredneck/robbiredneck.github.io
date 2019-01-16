@@ -13,3 +13,6 @@
     git branch - A branch in Git is simply a lightweight movable pointer to one of these commits.
 4.  Hvað er útgáfustýring (Version Control)? 
     - Version control systems are a category of software tools that help a software team manage        changes to source code over time.
+5.  Hverjir eru helstu kostir við að nota GIT? 
+    - Each branch functions in an isolated environment while changes are carried out in the            codebase.  This ensures that the master branch always supports production-quality code.          Therefore, besides  being more reliable it's also much easier to edit code in a Git branch       rather than editing it    directly using an external editor.
+
