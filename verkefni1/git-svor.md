@@ -1,5 +1,6 @@
 1. Hvað gera eftirfarandi Linux skipanir?
-    cd -
-    ls -
-    pwd -
-    mkdir -
+    cd - change directory
+    ls - list item
+    pwd - print working direktiory
+    mkdir - bý til nýa möppu
+
