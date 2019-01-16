@@ -18,3 +18,6 @@
 6.  Hversu oft telur þú að eigi að gera færslur (commit) í verkefni? 
     - þegar að þu ert buinn að gera eithveað mikilvægt
 
+7.  Hvað er átt við með “Working Directory”?” og “Staging Area” í GIT? 
+    - When the process refers to a file using a simple file name or relative path (as opposed to a     file designated by a full path from a root directory), the reference is interpreted relative     to the current working directory of the process.
+    - a stopping place or assembly point en route to a destination.
