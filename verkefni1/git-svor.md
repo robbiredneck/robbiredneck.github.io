@@ -11,3 +11,5 @@
     git log - it allows you to do set based reductions of what commits you want to see.
     git checkout - The git checkout command operates upon three distinct entities: files, commits,                  .and branches.
     git branch - A branch in Git is simply a lightweight movable pointer to one of these commits.
+4.  Hvað er útgáfustýring (Version Control)? 
+    - Version control systems are a category of software tools that help a software team manage        changes to source code over time.
