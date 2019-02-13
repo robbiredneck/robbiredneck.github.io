@@ -1,4 +1,5 @@
 ---
 title: Forsíða
+layout: default
 ---
-# forsíða
+# forsíðan
