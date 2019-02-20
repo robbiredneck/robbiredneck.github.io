@@ -1,0 +1,25 @@
+header{
+	background-color:red;
+}
+footer{
+	background-color:green;
+}
+.utan1{
+	display: grid;
+	grid-template-rows: 1fr 1fr;
+	background-color: orange;
+}
+.utan2{
+	display: grid;
+	grid-template-columns:1fr 1fr; 
+	background-color: lightblue;
+}
+.vinstrid{
+	background-color:orange;
+}
+.haegrid{
+	background-color:orange;
+}
+.adald{
+	background-color: lightblue ;
+}

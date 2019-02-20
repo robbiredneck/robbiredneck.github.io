@@ -1,8 +1,19 @@
-body {
-  background-color: black;
-  color:white;
+body{
+  margin: 0 auto;
+  max-width: 60em;
+  padding:1em;
+  color:red;
+  background: linear-gradient(#FFB6C1,lightblue, #FFB6C1)
 }
 
 .current {
     color: green;
   }
+
+  h1 {
+    color: red;
+  }
+  .topmenu a {
+    color:blue;
+  }
+ 
